@@ -1,3 +1,5 @@
 # hello-world
 
-Hi, i am rodrick and i love coding in java especially android.
+Hi everyone,
+i am rodrick and i love android development
+and java in general
